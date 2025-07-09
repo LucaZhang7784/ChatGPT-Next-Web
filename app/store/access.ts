@@ -63,7 +63,7 @@ const DEFAULT_SILICONFLOW_URL = isApp
 const DEFAULT_AI302_URL = isApp ? AI302_BASE_URL : ApiPath["302.AI"];
 
 const DEFAULT_ACCESS_STATE = {
-  accessCode: "",
+  accessCode: "CHATLUCA",
   useCustomConfig: false,
 
   provider: ServiceProvider.OpenAI,
